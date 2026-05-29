@@ -1,0 +1,6 @@
+{
+  "name": "사라진 총기, 숨겨진 진실",
+  "description": "전방 군 부대에서 발생한 총기 분실 사태의 숨겨진 음모와 진실을 파헤치는 심리 추리 방탈출 게임 프로토타입",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
